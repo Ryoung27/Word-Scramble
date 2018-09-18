@@ -14,6 +14,7 @@
 		02E1FA9C21513E0600FB477D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02E1FA9A21513E0600FB477D /* LaunchScreen.storyboard */; };
 		02E1FAA721513E0600FB477D /* Project5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E1FAA621513E0600FB477D /* Project5Tests.swift */; };
 		02E1FAB221513E0600FB477D /* Project5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E1FAB121513E0600FB477D /* Project5UITests.swift */; };
+		02E1FAC02151473800FB477D /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 02E1FABF2151473800FB477D /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		02E1FAAD21513E0600FB477D /* Project5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02E1FAB121513E0600FB477D /* Project5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITests.swift; sourceTree = "<group>"; };
 		02E1FAB321513E0600FB477D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02E1FABF2151473800FB477D /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		02E1FA9021513E0300FB477D /* Project5 */ = {
 			isa = PBXGroup;
 			children = (
+				02E1FABF2151473800FB477D /* start.txt */,
 				02E1FA9121513E0300FB477D /* AppDelegate.swift */,
 				02E1FA9321513E0300FB477D /* ViewController.swift */,
 				02E1FA9521513E0300FB477D /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02E1FA9C21513E0600FB477D /* LaunchScreen.storyboard in Resources */,
+				02E1FAC02151473800FB477D /* start.txt in Resources */,
 				02E1FA9921513E0600FB477D /* Assets.xcassets in Resources */,
 				02E1FA9721513E0300FB477D /* Main.storyboard in Resources */,
 			);
